@@ -77,7 +77,7 @@ Window Functions for ranking and cumulative analysis
 
 Import your dataset into a SQL database (table: layoffs_stagging2).
 
-Run the queries in Data_Explotary.sql.
+Run the queries in Data_Exploratory.sql.
 
 Modify queries as needed for deeper insights.
 
